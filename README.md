@@ -26,7 +26,7 @@
     <a href="https://docs.soliditylang.org/en/v0.8.14/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  
   <a href="https://docs.ethers.io/v5/" target="_blank" rel="noreferrer"> <img src="https://gateway.pinata.cloud/ipfs/QmUGpGEHC3QR2L5h9QMMwSW3NUAAzT7tdqhgxxJL3NbTHJ" alt="etherjs" width="40" height="40"/> </a> 
-   <a href="https://docs.ethers.io/v5/" target="_blank" rel="noreferrer"> <img src="https://gateway.pinata.cloud/ipfs/QmbUvUbE3v4zxqJofzwDqMDWrt9W9ggfraWMtbWyU9VczJ" alt="Hardhat" width="40" height="40"/> </a> 
+   <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://gateway.pinata.cloud/ipfs/QmbUvUbE3v4zxqJofzwDqMDWrt9W9ggfraWMtbWyU9VczJ" alt="Hardhat" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> 
