@@ -10,7 +10,7 @@
   
  👨‍🎓 &nbsp;&nbsp; Engineering student at [ESILV, Paris La Défense](https://www.esilv.fr/).
   
- 👨‍💻 &nbsp;&nbsp;  [Pyratzlabs](https://www.pyratzlabs.com/).
+ 👨‍💻 &nbsp;&nbsp; Web3 frontend developer at [Pyratzlabs](https://www.pyratzlabs.com/).
   
  🛠 &nbsp;&nbsp; Currently learning about blockchain programming.
 
