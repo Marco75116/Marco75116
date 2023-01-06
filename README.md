@@ -1,19 +1,23 @@
-<img width=400 src="https://github.com/Marco75116/Marco75116/blob/main/275183306_1185729932169364_7023197068938126386_n.jpg"><img width=400 align="right" src="https://github.com/Marco75116/Marco75116/blob/main/275992719_513930650248986_4927791148599829921_n.jpg">
-<!--   ![](https://github.com/Marco75116/Marco75116/blob/main/275992719_513930650248986_4927791148599829921_n.jpg) -->
+ <div align="center"><img  width=300 src="https://media.licdn.com/dms/image/C4E22AQEekGHCs2023Q/feedshare-shrink_1280/0/1672765019237?e=1675900800&v=beta&t=QN37PQUWv0hw48ANxM9EOduEPC4IKIji8UezUSe2Tw4">
+  <div/> 
+<Br/>
+<Br/>
 <h1 align="center">Hi 👋, I'm Marc-Antoine</h1>
 <h3 align="center">An apprenticeship student developer from Paris</h3>
-
-- 📫 How to reach me **marc-antoine.ourradour@edu.devinci.fr**
-
+  <Br/>
+<Br/>
+<div align="left">
+- 📫 How to reach me **<a href="mailto:marc-antoine.ourradour@edu.devinci.fr">marc-antoine.ourradour@edu.devinci.fr</a>**
+<div/>
 <h3 align="left">About me:</h3>
 <p align="left">
-  
- 👨‍🎓 &nbsp;&nbsp; Engineering student at [ESILV, Paris La Défense](https://www.esilv.fr/).
-  
- 👨‍💻 &nbsp;&nbsp; Web3 frontend developer at [Pyratzlabs](https://www.pyratzlabs.com/).
-  
- 🛠 &nbsp;&nbsp; Currently learning about blockchain programming.
-
+<div  align="left"> 
+👨‍🎓 &nbsp;&nbsp; Engineering student at [ESILV, Paris La Défense](https://www.esilv.fr/).
+<Br/><Br/>
+👨‍💻 &nbsp;&nbsp; Web3 frontend developer at [Pyratzlabs](https://www.pyratzlabs.com/).
+<Br/><Br/>
+🛠 &nbsp;&nbsp; Currently learning about blockchain programming.
+<div/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/marc-antoine-ourradour/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marc-antoine-ourradour/" height="30" width="40" /></a>
