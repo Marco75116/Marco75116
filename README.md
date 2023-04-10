@@ -12,9 +12,9 @@
 <h3 align="left">About me:</h3>
 <p align="left">
 <div  align="left"> 
-👨‍🎓 &nbsp;&nbsp; Engineering student at [ESILV, Paris La Défense](https://www.esilv.fr/).
+👨‍🎓 &nbsp;&nbsp; Engineering student at <a href="https://www.esilv.fr/">ESILV, Paris La Défense</a>.
 <Br/><Br/>
-👨‍💻 &nbsp;&nbsp; Web3 frontend developer at [Pyratzlabs](https://www.pyratzlabs.com/).
+ 👨‍💻 &nbsp;&nbsp; Web3 frontend developer at <a href="https://www.pyratzlabs.com/">Pyratzlabs</a>.
 <Br/><Br/>
 🛠 &nbsp;&nbsp; Currently learning about blockchain programming.
 <div/>
