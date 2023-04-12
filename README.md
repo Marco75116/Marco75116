@@ -16,7 +16,7 @@
 <Br/><Br/>
  👨‍💻 &nbsp;&nbsp; Web3 frontend developer at <a href="https://www.pyratzlabs.com/">Pyratzlabs</a>.
 <Br/><Br/>
-🛠 &nbsp;&nbsp; Currently learning about blockchain programming.
+🛠 &nbsp;&nbsp; Currently building a DEFI protocol.
 <div/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
