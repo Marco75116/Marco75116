@@ -5,9 +5,6 @@
 <h3 align="center">An apprenticeship student developer from Paris</h3>
 <Br/><Br/>
 
-<div align="left">
-📫 - reach me  <a href="mailto:marc-antoine.ourradour@edu.devinci.fr">marc-antoine.ourradour@edu.devinci.fr</a>
-<div/>
 <h3 align="left">About me:</h3>
 <p align="left">
 <div  align="left"> 
@@ -15,9 +12,12 @@
 <Br/><Br/>
 - 👨‍💻 Web3 frontend developer at <a href="https://www.pyratzlabs.com/">Pyratzlabs</a>.
 <Br/><Br/>
-- 🌐 See my portolio project <a href="https://marc-antoineourradour.fr/">here</a>.
-<Br/><Br/>
 - 🛠 Currently building a DEFI protocol.
+<Br/><Br/>
+- 🌐 See more information about me in my Portfolio WebSite <a href="https://marc-antoineourradour.fr/">here</a>.
+<Br/><Br/>
+- 📫 contact me <a href="mailto:marc-antoine.ourradour@edu.devinci.fr">here</a>
+
 <div/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
