@@ -16,7 +16,7 @@
 <Br/><Br/>
 - 🌐 See more information about me in my Portfolio WebSite <a href="https://marc-antoineourradour.fr/">here</a>.
 <Br/><Br/>
-- 📫 contact me <a href="mailto:marc-antoine.ourradour@edu.devinci.fr">here</a>
+- 📫 Contact Me <a href="mailto:marc-antoine.ourradour@edu.devinci.fr">here</a>
 
 <div/>
 <h3 align="left">Connect with me:</h3>
