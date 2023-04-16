@@ -1,6 +1,3 @@
- <div align="center"><img  width=300 src="https://media.licdn.com/dms/image/D4E03AQFnAY-XDt1CPg/profile-displayphoto-shrink_200_200/0/1672883817052?e=1686787200&v=beta&t=gFnVeHe_Y06eRJDrWyIgLi7iuw1QcBcPFK9OsyEhzLM"><div/> 
-<Br/><Br/>
-
 <h1 align="center">Hi 👋, I'm Marc-Antoine</h1>
 <h3 align="center">An apprenticeship student developer from Paris</h3>
 <Br/><Br/>
