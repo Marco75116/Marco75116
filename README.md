@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marc-Antoine</h1>
-<h3 align="center">An apprenticeship student developer from Paris</h3>
+<h3 align="center">Blockchain developer from Paris</h3>
 <Br/><Br/>
 
 <h3 align="left">About me:</h3>
