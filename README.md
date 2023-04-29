@@ -23,6 +23,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://pluspng.com/img-png/react-logo-png-javascript-logo-react-js-stickers-mugs-t-shirts-and-much-more-880x1136.jpg" alt="react" width="40" height="40"/> </a>
+   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://docs.soliditylang.org/en/v0.8.14/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" width="40" height="40"/> </a>
@@ -35,7 +37,14 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>  
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+ <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/760/885/png-transparent-node-js-javascript-express-js-react-chrome-v8-others-text-logo-sign.png" alt="node" width="80" height="40"/> </a>
+   <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--LnuNOpZS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.back4app.com/wp-content/uploads/2019/08/graphql-1120x515.png" alt="GraphQl" width="80" height="40"/> </a>
+ <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.6d0eecf8f6d8fda5b73ed84eb7e88d17?rik=ppkHcXLFxLjDGA&pid=ImgRaw&r=0&sres=1&sresct=1" alt="Jest" width="80" height="40"/> </a>
+   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.NvPgYjeU1dR4cDlYOBsszAAAAA?pid=ImgDet&rs=1" alt="Cypress" width="70" height="30"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+       <img src="https://www.dsmwebgeeks.com/app/uploads/2021/05/tailwindcss-logo.png" alt="Tailwind" width="80" height="40"/> 
+  </a>
+   <a href="https://styled-components.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="StyledComponent" width="50" height="60"/> </a>
 
 <br/>
 <p align="center"> 
