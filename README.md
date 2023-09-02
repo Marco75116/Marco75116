@@ -7,7 +7,7 @@
 <div  align="left"> 
 - 👨‍🎓 Graduated from <a href="https://www.esilv.fr/">ESILV, Paris La Défense</a>.
 <Br/><Br/>
-- 👨‍💻 Working at <a href="https://www.pyratzlabs.com/">Pyratzlabs</a>.
+- 👨‍💻 Working at <a href="https://uncx.network/">UNCX</a>.
 <Br/><Br/>
 - 🛠 Currently building a DEFI trading & porfolio tracker.
 <Br/><Br/>
