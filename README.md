@@ -49,10 +49,15 @@
   </a>
    <a href="https://styled-components.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="StyledComponent" width="50" height="60"/> </a>
 
-<h3 align="left">Sevices:</h3>
+<h3 align="left"  >Sevices:</h3>
+<div>
   <a href="https://magic.link/" target="_blank" rel="noreferrer"> <img src="https://moonbeam.network/wp-content/uploads/2021/09/magic-link-500.png" alt="MagicLink" width="100" height="60"/> </a>
   <a href="https://transak.com/" target="_blank" rel="noreferrer"> <img src="https://assets.transak.com/images/website/transak-logo.svg" alt="Transak" width="100" height="60"/> </a>
   <a href="https://sumsub.com/" target="_blank" rel="noreferrer"> <img src="https://financialit.net/sites/default/files/sumsub_3.png" alt="Sumsub" width="100" height="60"/> </a>
+  <a href="https://clerk.com/" target="_blank" rel="noreferrer"> <img src="https://clerk.com/_next/image?url=%2Fimages%2Fclerk-logo.svg&w=96&q=75" alt="Clerk" width="100" height="60"/> </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"  align="center" > <img src="https://seeklogo.com/images/S/supabase-logo-AC4F4FCA10-seeklogo.com.png" alt="Supabase" width="160" height="40"/> </a>
+</div>
+
 <br/>
 <p align="center"> 
   Visitor Count
