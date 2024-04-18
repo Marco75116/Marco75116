@@ -7,9 +7,7 @@
 <div  align="left"> 
 - 👨‍🎓 Graduated from <a href="https://www.esilv.fr/">ESILV, Paris La Défense</a>.
 <Br/><Br/>
-- 👨‍💻 Working at <a href="https://uncx.network/">UNCX</a>.
-<Br/><Br/>
-- 🛠 Currently building a DEFI trading & porfolio tracker.
+- 🛠 Currently building ...
 <Br/><Br/>
 - 🌐 See more information about me in my Portfolio <a href="https://marc-antoineourradour.fr/">WebSite</a>.
 <Br/><Br/>
@@ -23,6 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://e5ec5uzgvm7.exactdn.com/wp-content/uploads/2021/04/the-graph.png?strip=all&lossy=1&ssl=1" alt="thegraph" width="80" height="40"/> </a>
    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png" alt="next" width="40" height="40"/> </a>
    <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://pluspng.com/img-png/react-logo-png-javascript-logo-react-js-stickers-mugs-t-shirts-and-much-more-880x1136.jpg" alt="react" width="40" height="40"/> </a>
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
