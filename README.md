@@ -1,66 +1,79 @@
-<h1 align="center">Hi 👋, I'm Marc-Antoine</h1>
-<h3 align="center">Fullstack Blockchain developer from Paris</h3>
-<Br/><Br/>
+<h1 align="center">Hi, I'm Marc-Antoine</h1>
+<h3 align="center">Fullstack Blockchain Developer from Paris</h3>
 
-<h3 align="left">About me:</h3>
-<p align="left">
-<div  align="left"> 
-- 👨‍🎓 Graduated from <a href="https://www.esilv.fr/">ESILV, Paris La Défense</a>.
-<Br/><Br/>
-- 🛠 Currently building ...
-<Br/><Br/>
-- 🌐 See more information about me in my Portfolio <a href="https://marco33.fr/">WebSite</a>.
-<Br/><Br/>
-- 📫 Contact Me <a href="mailto:ourradourm@gmail.com">here</a>
+<br/>
 
-<div/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/marc-antoine-ourradour/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marc-antoine-ourradour/" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://e5ec5uzgvm7.exactdn.com/wp-content/uploads/2021/04/the-graph.png?strip=all&lossy=1&ssl=1" alt="thegraph" width="80" height="40"/> </a>
-   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png" alt="next" width="40" height="40"/> </a>
-   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://pluspng.com/img-png/react-logo-png-javascript-logo-react-js-stickers-mugs-t-shirts-and-much-more-880x1136.jpg" alt="react" width="40" height="40"/> </a>
-   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://docs.soliditylang.org/en/v0.8.14/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  
-     <a href="https://wagmi.sh/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/109633172?s=280&v=4" alt="wagmish" width="40" height="40"/> </a> 
-  <a href="https://docs.ethers.io/v5/" target="_blank" rel="noreferrer"> <img src="https://gateway.pinata.cloud/ipfs/QmUGpGEHC3QR2L5h9QMMwSW3NUAAzT7tdqhgxxJL3NbTHJ" alt="ethersjs" width="40" height="40"/> </a> 
-   <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://gateway.pinata.cloud/ipfs/QmbUvUbE3v4zxqJofzwDqMDWrt9W9ggfraWMtbWyU9VczJ" alt="Hardhat" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/fr/6/6b/Redis_Logo.svg" alt="redis" width="40" height="40"/> </a> 
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>  
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="50" height="50"/> </a> 
- <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/760/885/png-transparent-node-js-javascript-express-js-react-chrome-v8-others-text-logo-sign.png" alt="node" width="80" height="40"/> </a>
-   <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--LnuNOpZS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.back4app.com/wp-content/uploads/2019/08/graphql-1120x515.png" alt="GraphQl" width="80" height="40"/> </a>
- <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://grafikart.fr/uploads/icons/jest.svg" alt="Jest" width="80" height="40"/> </a>
-   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.NvPgYjeU1dR4cDlYOBsszAAAAA?pid=ImgDet&rs=1" alt="Cypress" width="70" height="30"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-       <img src="https://www.dsmwebgeeks.com/app/uploads/2021/05/tailwindcss-logo.png" alt="Tailwind" width="80" height="40"/> 
-  </a>
-   <a href="https://styled-components.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="StyledComponent" width="50" height="60"/> </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-antoine-ourradour/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://marco33.fr/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ourradourm@gmail.com)
 
-<h3 align="left"  >Sevices:</h3>
-<div>
-  <a href="https://magic.link/" target="_blank" rel="noreferrer"> <img src="https://moonbeam.network/wp-content/uploads/2021/09/magic-link-500.png" alt="MagicLink" width="100" height="60"/> </a>
-  <a href="https://transak.com/" target="_blank" rel="noreferrer"> <img src="https://assets.transak.com/images/website/transak-logo.svg" alt="Transak" width="100" height="60"/> </a>
-  <a href="https://sumsub.com/" target="_blank" rel="noreferrer"> <img src="https://financialit.net/sites/default/files/sumsub_3.png" alt="Sumsub" width="100" height="60"/> </a>
-  <a href="https://clerk.com/" target="_blank" rel="noreferrer"> <img src="https://clerk.com/_next/image?url=%2Fimages%2Fclerk-logo.svg&w=96&q=75" alt="Clerk" width="100" height="60"/> </a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer"  align="center" > <img src="https://seeklogo.com/images/S/supabase-logo-AC4F4FCA10-seeklogo.com.png" alt="Supabase" width="160" height="40"/> </a>
 </div>
 
 <br/>
-<p align="center"> 
-  Visitor Count
-  <br>
-  <br>
+
+## About Me
+
+- Graduated from [ESILV, Paris La Defense](https://www.esilv.fr/)
+- Currently building ...
+- See more on my [portfolio](https://marco33.fr/)
+
+<br/>
+
+## Tech Stack
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+### Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+### Backend & Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Web3
+
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+![Wagmi](https://img.shields.io/badge/Wagmi-1C1B1B?style=for-the-badge&logo=ethereum&logoColor=white)
+![The Graph](https://img.shields.io/badge/The_Graph-6747ED?style=for-the-badge&logo=thegraph&logoColor=white)
+
+### Testing
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+
+<br/>
+
+## Services
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Magic](https://img.shields.io/badge/Magic_Link-6851FF?style=for-the-badge&logoColor=white)
+![Transak](https://img.shields.io/badge/Transak-0364FF?style=for-the-badge&logoColor=white)
+![Sumsub](https://img.shields.io/badge/Sumsub-2B2D42?style=for-the-badge&logoColor=white)
+
+<br/>
+
+<p align="center">
   <img src="https://profile-counter.glitch.me/Marco75116/count.svg" />
 </p>
