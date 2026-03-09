@@ -28,46 +28,67 @@ I have been actively engaged in the blockchain ecosystem since 2018, developing 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-### Frontend
+### Frontend & UI
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Nextra](https://img.shields.io/badge/Nextra-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### Backend & Databases
+### Backend & Runtime
 
+![Bun](https://img.shields.io/badge/Bun-000?style=for-the-badge&logo=bun&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Elysia](https://img.shields.io/badge/Elysia-7C3AED?style=for-the-badge&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-E63946?style=for-the-badge&logoColor=white)
+![Hasura](https://img.shields.io/badge/Hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white)
+
+### Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Dragonfly](https://img.shields.io/badge/Dragonfly-6C63FF?style=for-the-badge&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### Web3
-
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
-![Wagmi](https://img.shields.io/badge/Wagmi-1C1B1B?style=for-the-badge&logo=ethereum&logoColor=white)
-![The Graph](https://img.shields.io/badge/The_Graph-6747ED?style=for-the-badge&logo=thegraph&logoColor=white)
-
-### Testing
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
-
-<br/>
-
-## Services
-
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Magic](https://img.shields.io/badge/Magic_Link-6851FF?style=for-the-badge&logoColor=white)
+
+### ORM & Data
+
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### Blockchain & Web3
+
+![EVM](https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-000?style=for-the-badge&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![Viem](https://img.shields.io/badge/Viem-1C1B1B?style=for-the-badge&logo=ethereum&logoColor=white)
+![Wagmi](https://img.shields.io/badge/Wagmi-1C1B1B?style=for-the-badge&logo=ethereum&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+![The Graph](https://img.shields.io/badge/The_Graph-6747ED?style=for-the-badge&logo=thegraph&logoColor=white)
+![Squid SDK](https://img.shields.io/badge/Squid_SDK-000?style=for-the-badge&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+![Tezos](https://img.shields.io/badge/Tezos-2C7DF7?style=for-the-badge&logo=tezos&logoColor=white)
+
+### DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![Patroni](https://img.shields.io/badge/Patroni-326CE5?style=for-the-badge&logoColor=white)
+
+### Services & Integrations
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Auth.js](https://img.shields.io/badge/Auth.js-000?style=for-the-badge&logoColor=white)
+![Magic](https://img.shields.io/badge/Magic_Wallet-6851FF?style=for-the-badge&logoColor=white)
 ![Transak](https://img.shields.io/badge/Transak-0364FF?style=for-the-badge&logoColor=white)
+![Wert](https://img.shields.io/badge/Wert-00C2FF?style=for-the-badge&logoColor=white)
 ![Sumsub](https://img.shields.io/badge/Sumsub-2B2D42?style=for-the-badge&logoColor=white)
+![Telegraf](https://img.shields.io/badge/Telegraf-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
